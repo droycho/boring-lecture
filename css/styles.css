@@ -1,0 +1,19 @@
+h2.intro {
+  color: red;
+  text-align: center;
+  font-size: 45px;
+}
+
+p.intro {
+  width: 50%;
+  font-style: italic;
+  text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.intro {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
